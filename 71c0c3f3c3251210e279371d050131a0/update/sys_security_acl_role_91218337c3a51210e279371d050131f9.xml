@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-05 19:54:06</sys_created_on>
+        <sys_id>91218337c3a51210e279371d050131f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1051793_translat_translate.x_1051793_translat.translate_user</sys_name>
+        <sys_package display_value="translate" source="x_1051793_translat">71c0c3f3c3251210e279371d050131a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="translate">71c0c3f3c3251210e279371d050131a0</sys_scope>
+        <sys_security_acl display_value="x_1051793_translat_translate">11218337c3a51210e279371d050131f6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_91218337c3a51210e279371d050131f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-05 19:54:06</sys_updated_on>
+        <sys_user_role display_value="x_1051793_translat.translate_user" name="x_1051793_translat.translate_user">012187f3c3a51210e279371d05013112</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

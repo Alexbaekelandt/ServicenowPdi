@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="abe08ff3c3a51210e279371d05013122" label="Translate" max_length="40" name="x_1051793_translat_translate" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Original text" max_length="1024" name="original_text" type="string_full_utf8"/>
+        <element label="Translated text" max_length="1024" name="translated_text" type="string"/>
+    </element>
+</database>
